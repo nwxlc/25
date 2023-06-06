@@ -1,0 +1,6 @@
+D:\VS projects\Markov 2 semestr\Марков формы\25\25\bin\Debug\25.exe.config
+D:\VS projects\Markov 2 semestr\Марков формы\25\25\bin\Debug\25.exe
+D:\VS projects\Markov 2 semestr\Марков формы\25\25\bin\Debug\25.pdb
+D:\VS projects\Markov 2 semestr\Марков формы\25\25\obj\Debug\25.csproj.CoreCompileInputs.cache
+D:\VS projects\Markov 2 semestr\Марков формы\25\25\obj\Debug\25.exe
+D:\VS projects\Markov 2 semestr\Марков формы\25\25\obj\Debug\25.pdb
